@@ -1,8 +1,8 @@
 // ====== EDIT THESE DETAILS BEFORE PUBLISHING ======
 const CONFIG = {
-  whatsapp: "212600000000", // Replace with your WhatsApp number, country code included, no + or spaces.
-  instagram: "https://instagram.com/", // Replace with your Instagram profile URL.
-  email: "your@email.com",
+  whatsapp: "212663719558", // Replace with your WhatsApp number, country code included, no + or spaces.
+  instagram: "https://instagram.com/aissam.sb", // Replace with your Instagram profile URL.
+  email: "asfitnessmarrakech@gmail.com",
   location: "Marrakech, Morocco"
 };
 // =================================================
